@@ -2,6 +2,8 @@
 $ cat input.txt | python mapper.py | sort | python reducer.py
 This will print the output of reducer in the terminal console. For the file input.txt, after running the above command, we get the output as
 
+This will print the output of reducer in the terminal console. For the file input.txt, after running the above command, we get the output as
+
 0,0,11878
 0,1,14044
 0,2,16031
